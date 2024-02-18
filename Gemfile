@@ -30,6 +30,8 @@ gem 'dotenv-rails'
 
 gem 'faker'
 
+gem 'devise', '~> 4.9', '>= 4.9.3'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
